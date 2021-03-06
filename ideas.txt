@@ -1,0 +1,30 @@
+// ID is based of of time of message
+System.currentTimeMillis()
+add users and allow them to communicate with each.
+user objects with there own tree structure
+
+add ability walk through files with current file.
+
+implement delete method
+
+implement search method
+// Search by:
+    //    sender
+    //    recipient
+    //    date range?
+    //    subject
+    //    keyword in body?
+
+		Press any key to continue...
+
+		Delete multiple emails at once (maybe)
+ability to favorite emails
+move to spam
+
+settings for users
+
+confirm password
+
+adding encryption/decryption
+
+use regular expressions to verify email is valid email

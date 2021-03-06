@@ -1,0 +1,27 @@
+// folders
+main inbox
+spam
+trash
+favorites
+sent folder
+
+// functionality
+delete
+undo
+compose - creates new file
+reply
+search by sender or recipient
+search by date
+
+email info
+sender, 
+recipient, 
+date/time, 
+message
+
+
+02/23/2021
+
+open email - access email in arraylist
+
+add 
